@@ -1,0 +1,7 @@
+py-cord
+python-dotenv
+supabase
+easyocr
+numpy
+Pillow
+rapidfuzz
